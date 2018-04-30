@@ -52,7 +52,7 @@ let GettingStartedView = {
                                 <div class="headline text-xs-center">Completely Open Sourced</div>
                             </v-card-title>
                             <v-card-text>
-                                Developed using only open source frameworks. Code could be found on <a href="https://github.com/Georgegig/nbu-altcoin-portfolio">Altcoin Portfolio</a> 
+                                Developed using only open source frameworks. Code could be found on <a href="https://github.com/Georgegig/nbu-open-source">Altcoin Portfolio</a> 
                             </v-card-text>
                             </v-card>
                         </v-flex>
